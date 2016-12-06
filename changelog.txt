@@ -1,4 +1,5 @@
 v1.0.1
+- Fixed Hebrew transloation and colorized title.
 
 v1.0.0
 - Initial Release.
