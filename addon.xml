@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="context.subtitlesdialog.contextmenu" name="Subtitles Dialog - Contextmenu" version="1.0.0" provider-name="burekas">
+<addon id="context.subtitlesdialog.contextmenu" name="Subtitles Dialog - Contextmenu" version="1.0.1" provider-name="burekas">
     <requires>
       <import addon="xbmc.python" version="2.20.0"/>
     </requires>
