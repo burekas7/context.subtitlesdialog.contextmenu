@@ -7,4 +7,4 @@ msgstr ""
 
 msgctxt "#32000"
 msgid "Check for subtitles..."
-msgstr "αγεχ λϊεαιεϊ..."
+msgstr "Χ‘Χ“Χ•Χ§ ΧΆΧ‘Χ•Χ¨ Χ›ΧªΧ•Χ‘Χ™Χ•Χª..."
